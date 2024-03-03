@@ -1,0 +1,30 @@
+.valentine-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.text {
+  font-size: 2em;
+  color: #ff6f61;
+  margin: 0;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.text-n2 {
+  text-align: center;
+  color: red;
+  font-size: large;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.imagen {
+  width: 250px;
+  height: 400px;
+}
